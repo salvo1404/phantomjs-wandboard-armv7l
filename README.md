@@ -10,3 +10,13 @@ Build Process
 -------------
 
 PhantomJS has been built using the process described below.
+
+What about some code **in** a list? That's insane, right?
+
+1. In Ruby you can map like this:
+
+        ['a', 'b'].map { |x| x.uppercase }
+
+2. In Rails, you can do a shortcut:
+
+        ['a', 'b'].map(&:uppercase)
