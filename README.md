@@ -7,6 +7,6 @@ PhantomJS is a headless WebKit with JavaScript API. It has fast and native suppo
 standards: DOM handling, CSS selector, JSON, Canvas, and SVG. (http://phantomjs.org).
 
 Build Process
-=============
+-------------
 
 PhantomJS has been built using the process described below.
