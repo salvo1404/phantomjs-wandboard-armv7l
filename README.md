@@ -14,11 +14,9 @@ PhantomJS has been built using the process described below.
 
 1. According to [PhantomJS build instruction](http://phantomjs.org/build.html).:
 
-        $ sudo apt-get update
-        $ sudo apt-get install build-essential chrpath git-core libssl-dev libfontconfig1-dev
-        $ git clone git://github.com/ariya/phantomjs.git
-        $ cd phantomjs
-        $ git checkout 1.9
+        $ wget https://phantomjs.googlecode.com/files/phantomjs-1.9.2-source.zip
+        $ unzip phantomjs-1.9.2-source.zip
+        $ cd phantomjs-1.9.2
 
 2. Download additional 3rdparty files:
 
