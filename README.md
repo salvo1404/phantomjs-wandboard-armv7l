@@ -1,5 +1,5 @@
-phantomjs-wandboard-armv7
-=========================
+phantomjs-wandboard-armv7l
+==========================
 
 PhantomJS 1.9.2 compiled on a WandBoard Quad (Ubuntu Linaro 11.10).
 
